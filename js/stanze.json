@@ -1,0 +1,8 @@
+{ 
+    "stanze": [
+    { "id": 1, "name": "Cucina", "north": 0, "south": 0, "est": 0, "west": 3, "objects": [{"name": "Coltello"}] },
+    { "id": 2, "name": "Sala da pranzo", "north": 4, "south": 3, "est": 0, "west": 0, "objects": [] },
+    { "id": 3, "name": "Bagno", "north": 2, "south": 0, "est": 1, "west": 0, "objects": [] },
+    { "id": 4, "name": "Entrata", "north": 0, "south": 2, "est": 0, "west": 0, "objects": [{"name": "Chiavi"}] }
+   ]
+}
